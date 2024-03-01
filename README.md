@@ -35,8 +35,6 @@
                 </ul>
             </li>
         </ul>
-        <li>Unzip the downloaded file and run the <strong>ASAT-Tailoring-App-1.0.jar</strong> program using the following command:</li>
-        <pre><code>java -jar ASAT-Tailoring-App-1.0.jar</code></pre>
     </ol>
 </body>
 </html>
