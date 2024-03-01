@@ -31,7 +31,7 @@
             <li>Windows Host:
                 <ul>
                     <li><a href="https://github.com/ASAT-AUTOMATIONS-PVT-LTD/ASAT-Tailoring-App/releases/download/v1.0/ASAT.Tailoring.App-1.0.exe">64-bit (EXE)</a></li>
-                    <li><a href="https://github.com/ASAT-AUTOMATIONS-PVT-LTD/ASAT-Tailoring-App/releases/download/untagged-215dd0cae3f146e411ad/ASAT.Tailoring.App-1.0.msi">64-bit (MSI)</a></li>
+                    <li><a href="https://github.com/ASAT-AUTOMATIONS-PVT-LTD/ASAT-Tailoring-App/releases/download/v1.0/ASAT.Tailoring.App-1.0.msi">64-bit (MSI)</a></li>
                 </ul>
             </li>
         </ul>
